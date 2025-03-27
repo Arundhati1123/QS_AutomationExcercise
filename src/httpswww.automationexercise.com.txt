@@ -1,0 +1,48 @@
+https://www.automationexercise.com/
+
+1️⃣ Home Page
+✅ Validate page title and logo
+✅ Verify header and footer links
+✅ Check navigation to different sections (Products, Contact Us, Test Cases, etc.)
+✅ Verify scrolling & responsiveness
+
+2️⃣ User Registration
+✅ Navigate to Signup/Login Page
+✅ Enter valid details and register
+✅ Handle error messages for invalid inputs
+✅ Verify success message after registration
+
+3️⃣ User Login & Logout
+✅ Enter valid credentials and log in
+✅ Verify error messages for invalid login
+✅ Validate logout functionality
+
+4️⃣ Product Search & Filter
+✅ Search for a product by name
+✅ Verify search results
+✅ Filter products by category & brand
+
+5️⃣ Product Details Page
+✅ Click on a product and open details
+✅ Validate product name, price, description, availability
+
+6️⃣ Add to Cart
+✅ Add product to cart from home page
+✅ Add product from product details page
+✅ Validate cart updates (price & quantity changes)
+
+7️⃣ Cart & Checkout
+✅ Open Cart page
+✅ Verify added products, total amount, remove item
+✅ Proceed to Checkout Page
+✅ Enter billing & shipping details
+✅ Verify Order Summary before confirming
+
+8️⃣ Payment & Order Confirmation
+✅ Select payment method (e.g., Card, Bank Transfer)
+✅ Validate payment processing
+✅ Verify success message after order placement
+
+9️⃣ Contact Us Form
+✅ Fill out and submit the Contact Us form
+✅ Verify success/error messages
